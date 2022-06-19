@@ -7,7 +7,7 @@
   </a>
 </p>
 
-> University second course project for DML Lab
+> University summer practise project for DML Lab
 
 ### 🏠 [Homepage](https://github.com/Korjick/CPP-Basic-XORList)
 
